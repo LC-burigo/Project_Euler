@@ -23,4 +23,4 @@ def prime_factor(number):
     print(max(prime_list))
 
 
-prime_factor(13195)
+prime_factor(600851475143)
