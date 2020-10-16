@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87f19df5-174a-4d77-ba5a-bbbfef397bb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.Problem3">
     <configuration name="Problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -146,20 +144,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602829668522</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="problem 3">
+      <created>1602867955777</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602867955777</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Problem 1 and the virtual env" />
     <MESSAGE value="add problem 2" />
     <MESSAGE value="problem 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem 2" />
+    <MESSAGE value="problem 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1602829667482">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1602867953544">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602829667482" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602867953544" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1602867563192">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -176,10 +182,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602867563192" />
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1602829669704">
+    <state x="184" y="7" key="SettingsEditor" timestamp="1602869766071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602829669704" />
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602869766071" />
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1602867957729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602867957729" />
     <state x="852" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602826562643">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
