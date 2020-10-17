@@ -1,4 +1,4 @@
-def prime_factor(number):
+def prime_divisor(number):
     if number > 1:
         factors = []
         prime_list = []
@@ -23,4 +23,4 @@ def prime_factor(number):
     print(max(prime_list))
 
 
-prime_factor(600851475143)
+prime_divisor(6008514)
