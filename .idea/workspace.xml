@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="87f19df5-174a-4d77-ba5a-bbbfef397bb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.Problem3">
+  <component name="RunManager" selected="Python.Problem7">
     <configuration name="Problem3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,8 +142,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Problem3" />
         <item itemvalue="Python.Problem7" />
+        <item itemvalue="Python.Problem3" />
         <item itemvalue="Python.Problem6" />
         <item itemvalue="Python.Problem5" />
         <item itemvalue="Python.Problem4" />
@@ -259,53 +259,67 @@
       <option name="project" value="LOCAL" />
       <updated>1602917182182</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="problem 7">
+      <created>1602918320355</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602918320355</updated>
+    </task>
+    <task id="LOCAL-00016" summary="problem 3">
+      <created>1602918346685</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602918346685</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Problem 1 and the virtual env" />
     <MESSAGE value="add problem 2" />
     <MESSAGE value="problem 2" />
-    <MESSAGE value="problem 3" />
     <MESSAGE value="problem 4" />
     <MESSAGE value="problem 5" />
     <MESSAGE value="problem 6" />
     <MESSAGE value="problem 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem 7" />
+    <MESSAGE value="problem 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1602918331915">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1602918345247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602918331915" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602918345247" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1602892945436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602892945436" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1602918257324">
+    <state width="1345" height="184" key="GridCell.Tab.0.bottom" timestamp="1602918812925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602918257324" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1602918257324">
+    <state width="1345" height="184" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602918812925" />
+    <state width="1345" height="184" key="GridCell.Tab.0.center" timestamp="1602918812925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602918257324" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1602918257324">
+    <state width="1345" height="184" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602918812925" />
+    <state width="1345" height="184" key="GridCell.Tab.0.left" timestamp="1602918812925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602918257324" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1602918257324">
+    <state width="1345" height="184" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602918812925" />
+    <state width="1345" height="184" key="GridCell.Tab.0.right" timestamp="1602918812925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602918257324" />
+    <state width="1345" height="184" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602918812925" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1602869766071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602869766071" />
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1602918321768">
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1602918348099">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602918321768" />
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602918348099" />
     <state x="852" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602918337336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
