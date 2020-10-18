@@ -23,4 +23,4 @@ def prime_divisor(number):
     print(max(prime_list))
 
 
-prime_divisor(6008514)
+prime_divisor(10)
