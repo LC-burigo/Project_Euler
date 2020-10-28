@@ -1,5 +1,5 @@
 # Project_Euler
-### In this repository, are a few activities from ProjectEuler.net made in python \
+### In this repository, are few activities from ProjectEuler.net made in python 
 :heavy_exclamation_mark: You can take a look on the website here :arrow_right: [ProjectEuler.net](https://projecteuler.net/)
 
 * Problem 1
