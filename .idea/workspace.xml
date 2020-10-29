@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87f19df5-174a-4d77-ba5a-bbbfef397bb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem11.py" afterDir="false" />
+    <list default="true" id="87f19df5-174a-4d77-ba5a-bbbfef397bb5" name="Default Changelist" comment="problem 11">
+      <change afterPath="$PROJECT_DIR$/tester.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -36,7 +38,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.Problem1">
+  <component name="RunManager" selected="Python.tester">
     <configuration name="Problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,6 +81,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Problem11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Problem3_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,28 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_Euler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tester.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tester" />
+        <item itemvalue="Python.Problem11" />
         <item itemvalue="Python.Problem1" />
         <item itemvalue="Python.Problem10" />
         <item itemvalue="Python.Problem3_1 (1)" />
-        <item itemvalue="Python.Problem9" />
-        <item itemvalue="Python.Problem8" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603038240755</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="problem 11">
+      <created>1603892946203</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1603892946203</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,45 +335,46 @@
     <MESSAGE value="problem 8" />
     <MESSAGE value="problem 9" />
     <MESSAGE value="problem 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem 10" />
+    <MESSAGE value="problem 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 11" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1603038239432">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1603987259470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603038239432" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1603040535474">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603987259470" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1603892962745">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603040535474" />
-    <state width="1345" height="184" key="GridCell.Tab.0.bottom" timestamp="1603775443922">
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603892962745" />
+    <state width="1345" height="160" key="GridCell.Tab.0.bottom" timestamp="1603987075564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="184" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603775443922" />
-    <state width="1345" height="184" key="GridCell.Tab.0.center" timestamp="1603775443922">
+    <state width="1345" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603987075564" />
+    <state width="1345" height="160" key="GridCell.Tab.0.center" timestamp="1603987075563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="184" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603775443922" />
-    <state width="1345" height="184" key="GridCell.Tab.0.left" timestamp="1603775443922">
+    <state width="1345" height="160" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603987075563" />
+    <state width="1345" height="160" key="GridCell.Tab.0.left" timestamp="1603987075561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="184" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603775443922" />
-    <state width="1345" height="184" key="GridCell.Tab.0.right" timestamp="1603775443922">
+    <state width="1345" height="160" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603987075561" />
+    <state width="1345" height="160" key="GridCell.Tab.0.right" timestamp="1603987075563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="184" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603775443922" />
+    <state width="1345" height="160" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603987075563" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1602869766071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602869766071" />
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1603038241826">
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1603892948025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603038241826" />
-    <state x="852" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603892919964">
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603892948025" />
+    <state x="852" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603987261909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="852" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603892919964" />
+    <state x="852" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603987261909" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602885243270">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
