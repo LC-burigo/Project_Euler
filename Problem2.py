@@ -19,4 +19,4 @@ def Fibonacci(limit_number):
     print(Sum_even_numbers)
 
 
-Fibonacci(4000000)
+Fibonacci(100000)
